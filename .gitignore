@@ -5,3 +5,5 @@ node_modules/
 *.swp
 *.tmp
 *.log
+
+.idea
